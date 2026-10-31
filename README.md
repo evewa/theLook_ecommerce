@@ -1,10 +1,12 @@
 # The Look Ecommerce Report
 [Google BigQuery dataset for TheLook](https://console.cloud.google.com/bigquery?ws=!1m4!1m3!3m2!1sbigquery-public-data!2sthelook_ecommerce)
-## Executive Summary
 
+[Tableau dashboards for this project](https://public.tableau.com/views/TheLook_Dashboards/ExecutiveDashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+
+## Executive Summary
 **Overview**
 
-Finance and Marketing requested an analysis of ecommerce user and transaction data from 2019–2026 to identify the primary areas where investment should be focused in 2027, paying close attention to current trends in 2026 as the year closes. This analytical report is summarized in the Executive findings and recommendations tab, with further discussion below. 
+Finance and Marketing requested an analysis of ecommerce user and transaction data from 2019–2026 to identify the primary areas where investment should be focused in 2027, paying close attention to current trends in 2026 as the year closes. This analytical report is summarized in the Executive findings and recommendations tab, with further discussion below and images of the dashboard deliverables at the end of the report. 
 
 The analysis evaluated customer purchasing behavior, product performance, marketing traffic sources, geographic markets, and gross profit to distinguish between areas with an established revenue base and areas with potential for future growth.
 
@@ -120,4 +122,22 @@ While the findings provide a foundation for identifying investment priorities, a
 Moving forward, Finance should work alongside Marketing, Product, Sales, and Supply Chain to establish measurable performance targets, evaluate proposed initiatives, and monitor their financial impact throughout 2027. Progress should be assessed through incremental gross profit, customer lifetime value, repeat purchase rates, market growth, product profitability, and marketing efficiency.
 
 Ultimately, TheLook's 2027 investment strategy should not be driven solely by where the company has generated the most revenue historically, but by where it can generate the greatest sustainable and incremental value moving forward.
+
+### Dashboards 
+These dashboards were developed as self-service tools for management to explore the underlying ecommerce data. Users can filter performance by customer, year, product, and marketing channel etc. to investigate trends, validate findings, and identify additional opportunities beyond the recommendations presented in this report.
+
+See [here](https://public.tableau.com/views/TheLook_Dashboards/ExecutiveDashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link) to interact with the dashboards on Tableau Public 
+
+**Executive:**
+<img width="1899" height="1199" alt="Executive Dashboard" src="https://github.com/user-attachments/assets/80c667f0-0ec9-4057-baa4-58f2384104c5" />
+
+**Customer & Marketing :**
+<img width="1599" height="899" alt="Customer   Marketing" src="https://github.com/user-attachments/assets/2694679b-fb91-4809-aa1b-3a4a53164e09" />
+
+**Products:**
+<img width="1599" height="899" alt="Products   Sales" src="https://github.com/user-attachments/assets/1541dffb-7808-4598-857d-9c1dbab27d02" />
+
+**Sales:**
+<img width="1599" height="899" alt="Finance" src="https://github.com/user-attachments/assets/833424f9-ea05-452f-9f85-0b464ef66d3c" />
+
 
