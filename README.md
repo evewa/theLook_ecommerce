@@ -101,8 +101,7 @@ It is not uncommon for organic traffic to be low, especially in ecommerce retail
 
 Current findings are based primarily on revenue, demographic, and order-volume patterns. Additional engagement and marketing performance metrics are needed to determine the efficiency and profitability of each channel for specific marketing channel investment strategies. 
 
-**Recommendations
-**
+**Recommendations**
 
 Optimize established marketing channels while strengthening Organic Traffic.
 
